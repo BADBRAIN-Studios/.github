@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./badbrain-banner.png" alt="BADBRAIN Studios banner" width="100%">
-</p>
-
 <h1 align="center">BADBRAIN Studios</h1>
 
 <p align="center">
