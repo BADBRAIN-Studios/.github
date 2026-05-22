@@ -1,5 +1,5 @@
 <!-- BADBRAIN Studios – GitHub landing README -->
-<p align="center"> # BADBRAIN Studios
+<h1 align="center">BADBRAIN Studios</h1>
 
 <p align="center">
   <strong>Story is the system.</strong><br>
