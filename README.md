@@ -1,7 +1,5 @@
 <!-- BADBRAIN Studios – GitHub landing README -->
-# BADBRAIN Studios
-
-# BADBRAIN Studios
+<p align="center"> # BADBRAIN Studios
 
 <p align="center">
   <strong>Story is the system.</strong><br>
