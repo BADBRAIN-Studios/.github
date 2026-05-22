@@ -16,7 +16,7 @@
 
 <p align="center" style="margin-top: 0.8em;">
   <!-- Uses the SVG hosted at GitHub's raw URL; update with your actual repo path -->
-  <img src="https://raw.githubusercontent.com/yourusername/badbrian-studios/main/assets/badbrain-icon.svg" alt="BADBRAIN Studios" width="128" height="128" />
+  <img src="https://github.com/BADBRAIN-Studios/.github/blob/main/assets/badbrain-icon.svg" alt="BADBRAIN Studios" width="128" height="128" />
 </p>
 
 ---
