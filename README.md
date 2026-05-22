@@ -15,7 +15,8 @@
 </p>
 
 <p align="center" style="margin-top: 0.8em;">
-  <img src="assets/badbrian-favicon.svg" alt="BADBRAIN Studios Logo" width="64" height="64">
+  <!-- Uses the SVG hosted at GitHub's raw URL; update with your actual repo path -->
+  <img src="https://raw.githubusercontent.com/yourusername/badbrian-studios/main/assets/badbrain-icon.svg" alt="BADBRAIN Studios" width="128" height="128" />
 </p>
 
 ---
@@ -24,7 +25,7 @@
 
 **BADBRAIN Studios** is a narrative technology studio that builds the systems, platforms, and digital experiences where stories are made, shared, and lived. We design **narrative infrastructure**—the tools, flows, and interfaces that shape how audiences encounter culture in the next era.
 
-Grounded in Columbia, Ohio, we work at the intersection of storytelling, systems thinking, and digital experience.
+Grounded in Columbus, Ohio, we work at the intersection of storytelling, systems thinking, and digital experience.
 
 ---
 
