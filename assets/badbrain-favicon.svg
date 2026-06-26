@@ -1,15 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="BADBRAIN Studios" fill="none">
-  <!-- Signal‑red background -->
-  <rect x="0" y="0" width="32" height="32" fill="#C41E3A" />
-
-  <!-- Abstract editorial mark (scaled down bars) -->
-  <g transform="translate(7 7) scale(0.85)" fill="#EEEBE4">
-    <rect x="3" y="6" width="2" height="12"/>
-    <rect x="7" y="6" width="10" height="2"/>
-    <rect x="7" y="11" width="13" height="2"/>
-    <rect x="7" y="16" width="10" height="2"/>
-  </g>
-
-  <!-- Corner pip (small black square with red outline) -->
-  <rect x="25" y="1" width="6" height="6" fill="#0D0D0D" stroke="#C41E3A" stroke-width="1" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="BADBRAIN Strata badge">
+  <rect width="120" height="120" fill="#2F6BFF"></rect>
+  <rect x="22" y="30" width="76" height="14" fill="#EEF1F9"></rect>
+  <rect x="36" y="53" width="62" height="14" fill="#0C1020"></rect>
+  <rect x="22" y="76" width="50" height="14" fill="#0C1020"></rect>
 </svg>
